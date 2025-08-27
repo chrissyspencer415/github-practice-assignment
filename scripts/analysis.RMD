@@ -8,5 +8,11 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+```{r}
+#inserted code chunk under Code / Insert Chunk
+#opt-cmd-I is the hotkey
+y<-2+1
+y
+```
 
 
