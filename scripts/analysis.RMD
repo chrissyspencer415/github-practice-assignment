@@ -14,5 +14,10 @@ knitr::opts_chunk$set(echo = TRUE)
 y<-2+1
 y
 ```
+# Text to explain the code
+Beyond the code chunks, I wil use these 3 types of information in text: 
+1. explain the biology behind the code
+2. explain the logic behind the code
+3. I cannot think of a third one right now
 
 
